@@ -1,0 +1,15 @@
+Module is a folder which contains reusable terraform files
+route 53 sperate module
+
+s3 sepearte module
+
+project
+	-- module
+		  ---vpc
+		  --- s3
+		  --- rds
+		  --- route53
+		  --- ec2
+	 --- staging
+	 --- prod
+	 
